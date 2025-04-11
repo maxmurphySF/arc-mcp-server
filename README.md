@@ -6,7 +6,7 @@
 
 The **ARC Model Context Protocol (MCP) Server** revolutionizes how developers interact with the ARC framework by creating a seamless bridge between powerful AI models (like Claude, GPT, and others) and ARC's robust ecosystem for building cloud-native enterprise applications.
 
-![ARC MCP Bridge]([https://via.placeholder.com/800x400?text=ARC+MCP+AI+Bridge](https://github.com/maxmurphySF/arc-mcp-server/blob/main/arc-mcp-cover.png))
+![ARC MCP Bridge](https://github.com/maxmurphySF/arc-mcp-server/blob/main/arc-mcp-cover.png)
 
 This innovative implementation follows the Model Context Protocol specification, enabling AI assistants to directly leverage ARC's capabilities, accelerating development cycles and enhancing productivity across your organization.
 

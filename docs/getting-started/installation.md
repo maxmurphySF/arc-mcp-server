@@ -10,24 +10,8 @@ Before installing the ARC MCP, ensure you have the following prerequisites insta
 - **npm** (v6 or later) or **yarn** (v1.22 or later)
 - **Git** (for cloning the repository)
 
-## Installation Methods
 
-There are two primary methods to install the ARC MCP:
-
-1. Using the pre-built package
-2. Building from source
-
-### Method 1: Using the Pre-built Package
-
-```bash
-# Install the ARC MCP globally
-npm install -g arc-mcp-server
-
-# Verify installation
-arc-mcp-server --version
-```
-
-### Method 2: Building from Source
+### Building from Source
 
 ```bash
 # Clone the repository
